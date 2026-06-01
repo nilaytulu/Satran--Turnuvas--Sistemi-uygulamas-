@@ -79,5 +79,5 @@ Uygulama varsayılan olarak `http://127.0.0.1:5000` adresinde çalışır.
 
 | | Bağlantı |
 |---|---|
-| 🌐 **Canlı Uygulama (Render/Railway)** | _link buraya eklenecek_ |
-| 🎬 **Demo Videosu** | _link buraya eklenecek_ |
+| 🌐 **Canlı Uygulama (Render/Railway)** | |
+| 🎬 **Demo Videosu** |https://www.youtube.com/shorts/VmF2dnuc5VU|
