@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# SQLite veritabanı
+instance/
+*.db
+*.sqlite3
+
+# Flask
+.flask_session/
+
+# Geliştirme araçları
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Testler
+.pytest_cache/
+.coverage
+htmlcov/
+*.coverage
+
+# Git
+.git/
+.gitignore
+
+# Dokümantasyon çıktıları
+docs/_build/
+
+# Log dosyaları
+*.log
+logs/

@@ -1,0 +1,46 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ── Sanal Ortam ──────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Ortam Değişkenleri (GİZLİ — asla commit etme!) ──────
+.env
+.env.local
+.env.production
+
+# ── Flask / SQLite ───────────────────────────────────────
+instance/
+*.db
+*.sqlite3
+
+# ── Flask-Migrate / Alembic ──────────────────────────────
+# migrations/ klasörü commit edilmeli, içindeki __pycache__ hariç
+migrations/__pycache__/
+
+# ── Test ve Kapsam ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ── Dağıtım ve Build ─────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── IDE ve Editör ────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
